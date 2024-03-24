@@ -6,4 +6,4 @@
 
 <p>-CSS</p>
 
-<img src="">
+<img src="https://github.com/leonardo-silvas/Projeto-Easy-shoping/blob/main/img/Desktop.pnj.png">
