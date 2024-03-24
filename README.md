@@ -1,4 +1,4 @@
-<h1>Projeto-Easy-shopping</h1>
+<h1>Projeto-Responsive</h1>
 
 <h2>Tecnologias ultilizadas:</h2>
 
