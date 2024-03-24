@@ -9,4 +9,6 @@
 
 <img src="https://github.com/leonardo-silvas/Projeto-Easy-shoping/blob/main/img/Desktop.pnj.png">
 
+<br>
+
 <img src="https://github.com/leonardo-silvas/Projeto-Easy-shoping/blob/main/img/mobile.pnj.png">
