@@ -2,9 +2,10 @@
 
 <h2>Tecnologias ultilizadas:</h2>
 
-<p>-HTML</p>
-
-<p>-CSS</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
 
 <img src="https://github.com/leonardo-silvas/Projeto-Easy-shoping/blob/main/img/Desktop.pnj.png">
 
